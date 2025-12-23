@@ -4,7 +4,7 @@ many thanks for having a look at my GitHub profile.
 
 I'm currently looking for mentors (I'll pay by the hour)
 
-* in **reinforcement learning**,
+* in [reinforcement learning](http://www.github.com/adrische/Reimplementing-PPO),
 
 * and in **parallel programming** (OpenMP, MPI, CUDA, general operating system basics),
 
