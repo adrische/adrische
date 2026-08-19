@@ -13,3 +13,5 @@ who could answer any stupid questions I have, point me in the right direction, a
 In terms of experience it's probably enough if you have implemented a relevant paper before.
 
 Looking forward to speaking to you!
+
+I occasionally write on my [blog](https://adrische.github.io/).
